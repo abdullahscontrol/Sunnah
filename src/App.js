@@ -14,7 +14,7 @@ function Media() {
     <div className='media'>
       <div className='media-data'>
         {/* <video  >
-          <source src='one.mp4' type='video/mp4'></source>
+          <source src='one.mp4' type='video/mgitp4'></source>
         </video> */}
         <embed src='suffer.mp4' width={"100%"}></embed>
         {/* <img src='dorm.png' alt='hoto' /> */}
