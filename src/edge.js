@@ -12,7 +12,7 @@ function Edge() {
                     </div>
                 </div>
                 <div>
-                    <a href="https://www.youtube.com/watch?v=Oe7VKxFIrJA&pp=ygUcYW5kcmV3IHRhdGUgY2hhbmdlIHlvdXIgbGlmZQ%3D%3D" target="_blank">Watch full video here</a>
+                    <a href="https://www.youtube.com/watch?v=Oe7VKxFIrJA&pp=ygUcYW5kcmV3IHRhdGUgY2hhbmdlIHlvdXIgbGlmZQ%3D%3D" target="_blank" rel="noreferrer">Watch full video here</a>
                     <br />
                     <br />
                 </div>

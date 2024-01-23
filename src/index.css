@@ -80,6 +80,7 @@ img {
   font-size: 1.3rem;
   padding: 1rem;
   padding-left: .3rem;
+  color: var(--color-text);
 }
 
 #button {
